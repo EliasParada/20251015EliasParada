@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.infrastructure\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|solutionrelative:prueba.infrastructure\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.infrastructure\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|solutionrelative:prueba.infrastructure\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B0BA89-CE98-47F8-90DE-1E721030757E}|Prueba.WebApi\\Prueba.WebApi.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.webapi\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B0BA89-CE98-47F8-90DE-1E721030757E}|Prueba.WebApi\\Prueba.WebApi.csproj|solutionrelative:prueba.webapi\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B0BA89-CE98-47F8-90DE-1E721030757E}|Prueba.WebApi\\Prueba.WebApi.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.webapi\\configurations\\dependenciesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B0BA89-CE98-47F8-90DE-1E721030757E}|Prueba.WebApi\\Prueba.WebApi.csproj|solutionrelative:prueba.webapi\\configurations\\dependenciesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.infrastructure\\scripts\\database\\storedprocedures\\sp_registrar_pedido.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|solutionrelative:prueba.infrastructure\\scripts\\database\\storedprocedures\\sp_registrar_pedido.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.api\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|solutionrelative:prueba.api\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,31 +35,11 @@
       "RelativeMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|solutionrelative:prueba.api\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0B0BA89-CE98-47F8-90DE-1E721030757E}|Prueba.WebApi\\Prueba.WebApi.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.webapi\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0B0BA89-CE98-47F8-90DE-1E721030757E}|Prueba.WebApi\\Prueba.WebApi.csproj|solutionrelative:prueba.webapi\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.infrastructure\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|solutionrelative:prueba.infrastructure\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.infrastructure\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|solutionrelative:prueba.infrastructure\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DB_PRUEBA_TECNICA/True/SqlTable/dbo.USUARIO.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.infrastructure\\scripts\\database\\storedprocedures\\sp_registrar_pedido.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|solutionrelative:prueba.infrastructure\\scripts\\database\\storedprocedures\\sp_registrar_pedido.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.api\\services\\ipedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|solutionrelative:prueba.api\\services\\ipedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0B0BA89-CE98-47F8-90DE-1E721030757E}|Prueba.WebApi\\Prueba.WebApi.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.webapi\\configurations\\dependenciesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0B0BA89-CE98-47F8-90DE-1E721030757E}|Prueba.WebApi\\Prueba.WebApi.csproj|solutionrelative:prueba.webapi\\configurations\\dependenciesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0B0BA89-CE98-47F8-90DE-1E721030757E}|Prueba.WebApi\\Prueba.WebApi.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -124,18 +124,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.infrastructure\\scripts\\database\\storedprocedures\\sp_registrar_pedido.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
       "RelativeMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|solutionrelative:prueba.infrastructure\\scripts\\database\\storedprocedures\\sp_registrar_pedido.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.infrastructure\\scripts\\database\\storedprocedures\\sp_registrar_pedido.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
-      "RelativeMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|solutionrelative:prueba.infrastructure\\scripts\\database\\storedprocedures\\sp_registrar_pedido.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.infrastructure\\scripts\\database\\storedprocedures\\sp_cancelar_pedido.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|solutionrelative:prueba.infrastructure\\scripts\\database\\storedprocedures\\sp_cancelar_pedido.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.infrastructure\\scripts\\database\\storedprocedures\\sp_cancelar_pedido.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
-      "RelativeMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|solutionrelative:prueba.infrastructure\\scripts\\database\\storedprocedures\\sp_cancelar_pedido.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -145,27 +133,26 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 21,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "dbo.USUARIO [Datos]",
+              "DocumentIndex": 8,
+              "Title": "dbo.USUARIO.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DB_PRUEBA_TECNICA/True/SqlTable/dbo.USUARIO.sql",
-              "ToolTip": "dbo.USUARIO [Datos]",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DB_PRUEBA_TECNICA/True/SqlTable/dbo.USUARIO.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-10-15T20:14:17.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T20:14:17.07Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "PedidoController.cs",
               "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.WebApi\\Controllers\\PedidoController.cs",
               "RelativeDocumentMoniker": "Prueba.WebApi\\Controllers\\PedidoController.cs",
               "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.WebApi\\Controllers\\PedidoController.cs",
               "RelativeToolTip": "Prueba.WebApi\\Controllers\\PedidoController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAQwEEAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwDkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T19:59:58.059Z",
               "EditorCaption": ""
@@ -180,8 +167,7 @@
               "RelativeToolTip": "Prueba.Api\\DTOs\\PedidoCancelDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T19:59:37.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T19:59:37.326Z"
             },
             {
               "$type": "Document",
@@ -193,8 +179,7 @@
               "RelativeToolTip": "Prueba.Api\\DTOs\\PedidoResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T19:59:10.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T19:59:10.761Z"
             },
             {
               "$type": "Document",
@@ -206,8 +191,7 @@
               "RelativeToolTip": "Prueba.Api\\DTOs\\PedidoCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T19:58:08.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T19:58:08.539Z"
             },
             {
               "$type": "Document",
@@ -219,8 +203,7 @@
               "RelativeToolTip": "Prueba.Api\\DTOs\\ProductoUpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T19:54:58.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T19:54:58.925Z"
             },
             {
               "$type": "Document",
@@ -232,24 +215,22 @@
               "RelativeToolTip": "Prueba.Api\\DTOs\\ProductoCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T19:54:19.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T19:54:19.107Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "SP_CANCELAR_PEDIDO.sql ",
+              "Title": "SP_CANCELAR_PEDIDO.sql",
               "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Infrastructure\\Scripts\\Database\\StoredProcedures\\SP_CANCELAR_PEDIDO.sql",
               "RelativeDocumentMoniker": "Prueba.Infrastructure\\Scripts\\Database\\StoredProcedures\\SP_CANCELAR_PEDIDO.sql",
               "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Infrastructure\\Scripts\\Database\\StoredProcedures\\SP_CANCELAR_PEDIDO.sql",
               "RelativeToolTip": "Prueba.Infrastructure\\Scripts\\Database\\StoredProcedures\\SP_CANCELAR_PEDIDO.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-10-15T19:30:33.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T19:30:33.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "SP_REGISTRAR_PEDIDO.sql ",
               "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Infrastructure\\Scripts\\Database\\StoredProcedures\\SP_REGISTRAR_PEDIDO.sql",
               "RelativeDocumentMoniker": "Prueba.Infrastructure\\Scripts\\Database\\StoredProcedures\\SP_REGISTRAR_PEDIDO.sql",
@@ -269,18 +250,17 @@
               "RelativeToolTip": "Prueba.WebApi\\Controllers\\ProductoController.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAqwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T18:51:14.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T18:51:14.564Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "DependenciesConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Pasante\\Source\\Repos\\20251015EliasParada\\Prueba.WebApi\\Configurations\\DependenciesConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.WebApi\\Configurations\\DependenciesConfig.cs",
               "RelativeDocumentMoniker": "Prueba.WebApi\\Configurations\\DependenciesConfig.cs",
-              "ToolTip": "C:\\Users\\Pasante\\Source\\Repos\\20251015EliasParada\\Prueba.WebApi\\Configurations\\DependenciesConfig.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.WebApi\\Configurations\\DependenciesConfig.cs",
               "RelativeToolTip": "Prueba.WebApi\\Configurations\\DependenciesConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAhwBIAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T18:17:27.306Z",
               "EditorCaption": ""
@@ -288,25 +268,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "Prueba.WebApi",
+              "Title": "Prueba.WebApi.csproj",
               "DocumentMoniker": "C:\\Users\\Pasante\\Source\\Repos\\20251015EliasParada\\Prueba.WebApi\\Prueba.WebApi.csproj",
               "RelativeDocumentMoniker": "Prueba.WebApi\\Prueba.WebApi.csproj",
               "ToolTip": "C:\\Users\\Pasante\\Source\\Repos\\20251015EliasParada\\Prueba.WebApi\\Prueba.WebApi.csproj",
               "RelativeToolTip": "Prueba.WebApi\\Prueba.WebApi.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-15T18:16:45.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T18:16:45.275Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "PedidoService.cs",
               "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Infrastructure\\Services\\PedidoService.cs",
               "RelativeDocumentMoniker": "Prueba.Infrastructure\\Services\\PedidoService.cs",
               "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Infrastructure\\Services\\PedidoService.cs",
               "RelativeToolTip": "Prueba.Infrastructure\\Services\\PedidoService.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAADQAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwCAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T17:00:34.72Z",
               "EditorCaption": ""
@@ -321,18 +300,17 @@
               "RelativeToolTip": "Prueba.Infrastructure\\Services\\ProductoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T17:00:27.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T17:00:27.129Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "PedidoRepository.cs",
               "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Infrastructure\\Repositories\\PedidoRepository.cs",
               "RelativeDocumentMoniker": "Prueba.Infrastructure\\Repositories\\PedidoRepository.cs",
               "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Infrastructure\\Repositories\\PedidoRepository.cs",
               "RelativeToolTip": "Prueba.Infrastructure\\Repositories\\PedidoRepository.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T16:59:32.572Z",
               "EditorCaption": ""
@@ -347,8 +325,7 @@
               "RelativeToolTip": "Prueba.Infrastructure\\Repositories\\ProductoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T16:59:19.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T16:59:19.916Z"
             },
             {
               "$type": "Document",
@@ -360,38 +337,35 @@
               "RelativeToolTip": "Prueba.Infrastructure\\Repositories\\Repository.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAAwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T16:59:06.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T16:59:06.174Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "IPedidoService.cs",
-              "DocumentMoniker": "C:\\Users\\Pasante\\Source\\Repos\\20251015EliasParada\\Prueba.Api\\Services\\IPedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\Services\\IPedidoService.cs",
               "RelativeDocumentMoniker": "Prueba.Api\\Services\\IPedidoService.cs",
-              "ToolTip": "C:\\Users\\Pasante\\Source\\Repos\\20251015EliasParada\\Prueba.Api\\Services\\IPedidoService.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\Services\\IPedidoService.cs",
               "RelativeToolTip": "Prueba.Api\\Services\\IPedidoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T16:58:30.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T16:58:30.274Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "IProductoService.cs",
-              "DocumentMoniker": "C:\\Users\\Pasante\\Source\\Repos\\20251015EliasParada\\Prueba.Api\\Services\\IProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\Services\\IProductoService.cs",
               "RelativeDocumentMoniker": "Prueba.Api\\Services\\IProductoService.cs",
-              "ToolTip": "C:\\Users\\Pasante\\Source\\Repos\\20251015EliasParada\\Prueba.Api\\Services\\IProductoService.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\Services\\IProductoService.cs",
               "RelativeToolTip": "Prueba.Api\\Services\\IProductoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T16:58:20.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T16:58:20.258Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "IPedidoRepository.cs",
               "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\Interfaces\\IPedidoRepository.cs",
               "RelativeDocumentMoniker": "Prueba.Api\\Interfaces\\IPedidoRepository.cs",
@@ -399,12 +373,11 @@
               "RelativeToolTip": "Prueba.Api\\Interfaces\\IPedidoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T16:57:09.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T16:57:09.774Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "IProductoRepository.cs",
               "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\Interfaces\\IProductoRepository.cs",
               "RelativeDocumentMoniker": "Prueba.Api\\Interfaces\\IProductoRepository.cs",
@@ -412,12 +385,11 @@
               "RelativeToolTip": "Prueba.Api\\Interfaces\\IProductoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T16:56:48.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T16:56:48.195Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "Prueba.Api\\Interfaces\\IRepository.cs",
@@ -438,8 +410,7 @@
               "RelativeToolTip": "Prueba.WebApi\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T16:49:27.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T16:49:27.48Z"
             },
             {
               "$type": "Document",
@@ -451,8 +422,7 @@
               "RelativeToolTip": "Prueba.Infrastructure\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T16:45:54.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T16:45:54.99Z"
             },
             {
               "$type": "Document",
@@ -464,8 +434,7 @@
               "RelativeToolTip": "Prueba.Api\\Entities\\BitacoraInventario.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAcwCgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T16:37:28.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T16:37:28.746Z"
             },
             {
               "$type": "Document",
@@ -477,8 +446,7 @@
               "RelativeToolTip": "Prueba.Api\\Entities\\DetallePedido.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAcwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T16:33:58.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T16:33:58.217Z"
             },
             {
               "$type": "Document",
@@ -490,8 +458,7 @@
               "RelativeToolTip": "Prueba.Api\\Entities\\Pedido.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAIwCgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T16:29:54.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T16:29:54.443Z"
             },
             {
               "$type": "Document",
@@ -503,8 +470,7 @@
               "RelativeToolTip": "Prueba.Api\\Entities\\Producto.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAIwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T16:24:23.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T16:24:23.686Z"
             },
             {
               "$type": "Document",
@@ -516,8 +482,7 @@
               "RelativeToolTip": "Prueba.Api\\Entities\\Usuario.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAIwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T16:17:50.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T16:17:50.032Z"
             },
             {
               "$type": "Document",
@@ -529,8 +494,7 @@
               "RelativeToolTip": "Prueba.Api\\Entities\\Rol.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAQwB4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T16:17:15.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T16:17:15.496Z"
             }
           ]
         }

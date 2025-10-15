@@ -17,8 +17,6 @@ namespace Prueba.WebApi.Configurations
             // Repos
             services.AddScoped<IProductoRepository, ProductoRepository>();
             services.AddScoped<IPedidoRepository, PedidoRepository>();
-            services.AddScoped<IUsuarioRepository, UsuarioRepository>();
-            services.AddScoped<IBitacoraInventarioRepository, BitacoraInventarioRepository>();
 
             // Services
             services.AddScoped<IProductoService, ProductoService>();
