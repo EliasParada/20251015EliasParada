@@ -1,0 +1,663 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B0BA89-CE98-47F8-90DE-1E721030757E}|Prueba.WebApi\\Prueba.WebApi.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.webapi\\configurations\\dependenciesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B0BA89-CE98-47F8-90DE-1E721030757E}|Prueba.WebApi\\Prueba.WebApi.csproj|solutionrelative:prueba.webapi\\configurations\\dependenciesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B0BA89-CE98-47F8-90DE-1E721030757E}|Prueba.WebApi\\Prueba.WebApi.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B0BA89-CE98-47F8-90DE-1E721030757E}|Prueba.WebApi\\Prueba.WebApi.csproj|solutionrelative:prueba.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.api\\dtos\\pedidocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|solutionrelative:prueba.api\\dtos\\pedidocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B0BA89-CE98-47F8-90DE-1E721030757E}|Prueba.WebApi\\Prueba.WebApi.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.webapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B0BA89-CE98-47F8-90DE-1E721030757E}|Prueba.WebApi\\Prueba.WebApi.csproj|solutionrelative:prueba.webapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B0BA89-CE98-47F8-90DE-1E721030757E}|Prueba.WebApi\\Prueba.WebApi.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.webapi\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B0BA89-CE98-47F8-90DE-1E721030757E}|Prueba.WebApi\\Prueba.WebApi.csproj|solutionrelative:prueba.webapi\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.api\\services\\ipedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|solutionrelative:prueba.api\\services\\ipedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.infrastructure\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|solutionrelative:prueba.infrastructure\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.api\\interfaces\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|solutionrelative:prueba.api\\interfaces\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.infrastructure\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|solutionrelative:prueba.infrastructure\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.api\\dtos\\pedidocanceldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|solutionrelative:prueba.api\\dtos\\pedidocanceldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.api\\dtos\\pedidoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|solutionrelative:prueba.api\\dtos\\pedidoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.api\\dtos\\productocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|solutionrelative:prueba.api\\dtos\\productocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.api\\dtos\\productoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|solutionrelative:prueba.api\\dtos\\productoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.api\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|solutionrelative:prueba.api\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.api\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|solutionrelative:prueba.api\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|solutionrelative:prueba.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.infrastructure\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|solutionrelative:prueba.infrastructure\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.infrastructure\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|solutionrelative:prueba.infrastructure\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.api\\services\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|solutionrelative:prueba.api\\services\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.api\\entities\\bitacorainventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|solutionrelative:prueba.api\\entities\\bitacorainventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.api\\entities\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|solutionrelative:prueba.api\\entities\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.api\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|solutionrelative:prueba.api\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.api\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|solutionrelative:prueba.api\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.api\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|solutionrelative:prueba.api\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.infrastructure\\services\\bitacorainventarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|solutionrelative:prueba.infrastructure\\services\\bitacorainventarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.infrastructure\\scripts\\database\\storedprocedures\\sp_cancelar_pedido.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|solutionrelative:prueba.infrastructure\\scripts\\database\\storedprocedures\\sp_cancelar_pedido.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.infrastructure\\scripts\\database\\storedprocedures\\sp_registrar_pedido.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|solutionrelative:prueba.infrastructure\\scripts\\database\\storedprocedures\\sp_registrar_pedido.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.api\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|solutionrelative:prueba.api\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.api\\services\\ibitacorainventarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|solutionrelative:prueba.api\\services\\ibitacorainventarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B0BA89-CE98-47F8-90DE-1E721030757E}|Prueba.WebApi\\Prueba.WebApi.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.webapi\\prueba.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0B0BA89-CE98-47F8-90DE-1E721030757E}|Prueba.WebApi\\Prueba.WebApi.csproj|solutionrelative:prueba.webapi\\prueba.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.infrastructure\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|solutionrelative:prueba.infrastructure\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.infrastructure\\repositories\\bitacorainventariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|solutionrelative:prueba.infrastructure\\repositories\\bitacorainventariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.infrastructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|solutionrelative:prueba.infrastructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.api\\interfaces\\ibitacorainventariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|solutionrelative:prueba.api\\interfaces\\ibitacorainventariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.api\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|solutionrelative:prueba.api\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|solutionrelative:prueba.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.api\\entities\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC01EE1-408F-4137-8E27-620F910C93D8}|Prueba.Api\\Prueba.Api.csproj|solutionrelative:prueba.api\\entities\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.infrastructure\\scripts\\database\\storedprocedures\\sp_registrar_pedido.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|solutionrelative:prueba.infrastructure\\scripts\\database\\storedprocedures\\sp_registrar_pedido.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.infrastructure\\scripts\\database\\storedprocedures\\sp_registrar_pedido.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|solutionrelative:prueba.infrastructure\\scripts\\database\\storedprocedures\\sp_registrar_pedido.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.infrastructure\\scripts\\database\\storedprocedures\\sp_cancelar_pedido.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|solutionrelative:prueba.infrastructure\\scripts\\database\\storedprocedures\\sp_cancelar_pedido.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|c:\\users\\pasante\\source\\repos\\20251015eliasparada\\prueba.infrastructure\\scripts\\database\\storedprocedures\\sp_cancelar_pedido.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{3F54ACBD-4995-452C-8091-65B31553708C}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|solutionrelative:prueba.infrastructure\\scripts\\database\\storedprocedures\\sp_cancelar_pedido.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.WebApi\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "Prueba.WebApi\\Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.WebApi\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "Prueba.WebApi\\Controllers\\PedidoController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwEwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T19:59:58.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PedidoCancelDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\DTOs\\PedidoCancelDto.cs",
+              "RelativeDocumentMoniker": "Prueba.Api\\DTOs\\PedidoCancelDto.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\DTOs\\PedidoCancelDto.cs",
+              "RelativeToolTip": "Prueba.Api\\DTOs\\PedidoCancelDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T19:59:37.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PedidoResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\DTOs\\PedidoResponseDto.cs",
+              "RelativeDocumentMoniker": "Prueba.Api\\DTOs\\PedidoResponseDto.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\DTOs\\PedidoResponseDto.cs",
+              "RelativeToolTip": "Prueba.Api\\DTOs\\PedidoResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T19:59:10.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PedidoCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\DTOs\\PedidoCreateDto.cs",
+              "RelativeDocumentMoniker": "Prueba.Api\\DTOs\\PedidoCreateDto.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\DTOs\\PedidoCreateDto.cs",
+              "RelativeToolTip": "Prueba.Api\\DTOs\\PedidoCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T19:58:08.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductoUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\DTOs\\ProductoUpdateDto.cs",
+              "RelativeDocumentMoniker": "Prueba.Api\\DTOs\\ProductoUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\DTOs\\ProductoUpdateDto.cs",
+              "RelativeToolTip": "Prueba.Api\\DTOs\\ProductoUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T19:54:58.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductoCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\DTOs\\ProductoCreateDto.cs",
+              "RelativeDocumentMoniker": "Prueba.Api\\DTOs\\ProductoCreateDto.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\DTOs\\ProductoCreateDto.cs",
+              "RelativeToolTip": "Prueba.Api\\DTOs\\ProductoCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T19:54:19.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SP_CANCELAR_PEDIDO.sql ",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Infrastructure\\Scripts\\Database\\StoredProcedures\\SP_CANCELAR_PEDIDO.sql",
+              "RelativeDocumentMoniker": "Prueba.Infrastructure\\Scripts\\Database\\StoredProcedures\\SP_CANCELAR_PEDIDO.sql",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Infrastructure\\Scripts\\Database\\StoredProcedures\\SP_CANCELAR_PEDIDO.sql",
+              "RelativeToolTip": "Prueba.Infrastructure\\Scripts\\Database\\StoredProcedures\\SP_CANCELAR_PEDIDO.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-15T19:30:33.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SP_REGISTRAR_PEDIDO.sql ",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Infrastructure\\Scripts\\Database\\StoredProcedures\\SP_REGISTRAR_PEDIDO.sql",
+              "RelativeDocumentMoniker": "Prueba.Infrastructure\\Scripts\\Database\\StoredProcedures\\SP_REGISTRAR_PEDIDO.sql",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Infrastructure\\Scripts\\Database\\StoredProcedures\\SP_REGISTRAR_PEDIDO.sql",
+              "RelativeToolTip": "Prueba.Infrastructure\\Scripts\\Database\\StoredProcedures\\SP_REGISTRAR_PEDIDO.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-15T19:28:01.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.WebApi\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Prueba.WebApi\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.WebApi\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Prueba.WebApi\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T18:51:14.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependenciesConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\Source\\Repos\\20251015EliasParada\\Prueba.WebApi\\Configurations\\DependenciesConfig.cs",
+              "RelativeDocumentMoniker": "Prueba.WebApi\\Configurations\\DependenciesConfig.cs",
+              "ToolTip": "C:\\Users\\Pasante\\Source\\Repos\\20251015EliasParada\\Prueba.WebApi\\Configurations\\DependenciesConfig.cs",
+              "RelativeToolTip": "Prueba.WebApi\\Configurations\\DependenciesConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T18:17:27.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Prueba.WebApi",
+              "DocumentMoniker": "C:\\Users\\Pasante\\Source\\Repos\\20251015EliasParada\\Prueba.WebApi\\Prueba.WebApi.csproj",
+              "RelativeDocumentMoniker": "Prueba.WebApi\\Prueba.WebApi.csproj",
+              "ToolTip": "C:\\Users\\Pasante\\Source\\Repos\\20251015EliasParada\\Prueba.WebApi\\Prueba.WebApi.csproj",
+              "RelativeToolTip": "Prueba.WebApi\\Prueba.WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-15T18:16:45.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BitacoraInventarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Infrastructure\\Services\\BitacoraInventarioService.cs",
+              "RelativeDocumentMoniker": "Prueba.Infrastructure\\Services\\BitacoraInventarioService.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Infrastructure\\Services\\BitacoraInventarioService.cs",
+              "RelativeToolTip": "Prueba.Infrastructure\\Services\\BitacoraInventarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T17:00:54.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Infrastructure\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Prueba.Infrastructure\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Infrastructure\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "Prueba.Infrastructure\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T17:00:42.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Infrastructure\\Services\\PedidoService.cs",
+              "RelativeDocumentMoniker": "Prueba.Infrastructure\\Services\\PedidoService.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Infrastructure\\Services\\PedidoService.cs",
+              "RelativeToolTip": "Prueba.Infrastructure\\Services\\PedidoService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAwwDoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T17:00:34.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Infrastructure\\Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "Prueba.Infrastructure\\Services\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Infrastructure\\Services\\ProductoService.cs",
+              "RelativeToolTip": "Prueba.Infrastructure\\Services\\ProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T17:00:27.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BitacoraInventarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Infrastructure\\Repositories\\BitacoraInventarioRepository.cs",
+              "RelativeDocumentMoniker": "Prueba.Infrastructure\\Repositories\\BitacoraInventarioRepository.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Infrastructure\\Repositories\\BitacoraInventarioRepository.cs",
+              "RelativeToolTip": "Prueba.Infrastructure\\Repositories\\BitacoraInventarioRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:59:59.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Prueba.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "Prueba.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:59:44.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Infrastructure\\Repositories\\PedidoRepository.cs",
+              "RelativeDocumentMoniker": "Prueba.Infrastructure\\Repositories\\PedidoRepository.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Infrastructure\\Repositories\\PedidoRepository.cs",
+              "RelativeToolTip": "Prueba.Infrastructure\\Repositories\\PedidoRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAewB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:59:32.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Infrastructure\\Repositories\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "Prueba.Infrastructure\\Repositories\\ProductoRepository.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Infrastructure\\Repositories\\ProductoRepository.cs",
+              "RelativeToolTip": "Prueba.Infrastructure\\Repositories\\ProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:59:19.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Prueba.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Prueba.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:59:06.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IBitacoraInventarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\Source\\Repos\\20251015EliasParada\\Prueba.Api\\Services\\IBitacoraInventarioService.cs",
+              "RelativeDocumentMoniker": "Prueba.Api\\Services\\IBitacoraInventarioService.cs",
+              "ToolTip": "C:\\Users\\Pasante\\Source\\Repos\\20251015EliasParada\\Prueba.Api\\Services\\IBitacoraInventarioService.cs",
+              "RelativeToolTip": "Prueba.Api\\Services\\IBitacoraInventarioService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:58:44.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\Source\\Repos\\20251015EliasParada\\Prueba.Api\\Services\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "Prueba.Api\\Services\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\Pasante\\Source\\Repos\\20251015EliasParada\\Prueba.Api\\Services\\IUsuarioService.cs",
+              "RelativeToolTip": "Prueba.Api\\Services\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:58:38.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\Source\\Repos\\20251015EliasParada\\Prueba.Api\\Services\\IPedidoService.cs",
+              "RelativeDocumentMoniker": "Prueba.Api\\Services\\IPedidoService.cs",
+              "ToolTip": "C:\\Users\\Pasante\\Source\\Repos\\20251015EliasParada\\Prueba.Api\\Services\\IPedidoService.cs",
+              "RelativeToolTip": "Prueba.Api\\Services\\IPedidoService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:58:30.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\Source\\Repos\\20251015EliasParada\\Prueba.Api\\Services\\IProductoService.cs",
+              "RelativeDocumentMoniker": "Prueba.Api\\Services\\IProductoService.cs",
+              "ToolTip": "C:\\Users\\Pasante\\Source\\Repos\\20251015EliasParada\\Prueba.Api\\Services\\IProductoService.cs",
+              "RelativeToolTip": "Prueba.Api\\Services\\IProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:58:20.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IBitacoraInventarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\Interfaces\\IBitacoraInventarioRepository.cs",
+              "RelativeDocumentMoniker": "Prueba.Api\\Interfaces\\IBitacoraInventarioRepository.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\Interfaces\\IBitacoraInventarioRepository.cs",
+              "RelativeToolTip": "Prueba.Api\\Interfaces\\IBitacoraInventarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:57:23.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Prueba.Api\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Prueba.Api\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:57:17.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\Interfaces\\IPedidoRepository.cs",
+              "RelativeDocumentMoniker": "Prueba.Api\\Interfaces\\IPedidoRepository.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\Interfaces\\IPedidoRepository.cs",
+              "RelativeToolTip": "Prueba.Api\\Interfaces\\IPedidoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:57:09.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\Interfaces\\IProductoRepository.cs",
+              "RelativeDocumentMoniker": "Prueba.Api\\Interfaces\\IProductoRepository.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\Interfaces\\IProductoRepository.cs",
+              "RelativeToolTip": "Prueba.Api\\Interfaces\\IProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:56:48.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Prueba.Api\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Prueba.Api\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:56:35.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Prueba.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.WebApi\\Program.cs",
+              "RelativeToolTip": "Prueba.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:49:27.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Prueba.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Prueba.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:45:54.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BitacoraInventario.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\Entities\\BitacoraInventario.cs",
+              "RelativeDocumentMoniker": "Prueba.Api\\Entities\\BitacoraInventario.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\Entities\\BitacoraInventario.cs",
+              "RelativeToolTip": "Prueba.Api\\Entities\\BitacoraInventario.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwCgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:37:28.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DetallePedido.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\Entities\\DetallePedido.cs",
+              "RelativeDocumentMoniker": "Prueba.Api\\Entities\\DetallePedido.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\Entities\\DetallePedido.cs",
+              "RelativeToolTip": "Prueba.Api\\Entities\\DetallePedido.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:33:58.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\Entities\\Pedido.cs",
+              "RelativeDocumentMoniker": "Prueba.Api\\Entities\\Pedido.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\Entities\\Pedido.cs",
+              "RelativeToolTip": "Prueba.Api\\Entities\\Pedido.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:29:54.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\Entities\\Producto.cs",
+              "RelativeDocumentMoniker": "Prueba.Api\\Entities\\Producto.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\Entities\\Producto.cs",
+              "RelativeToolTip": "Prueba.Api\\Entities\\Producto.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:24:23.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "Prueba.Api\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\Entities\\Usuario.cs",
+              "RelativeToolTip": "Prueba.Api\\Entities\\Usuario.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:17:50.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\Entities\\Rol.cs",
+              "RelativeDocumentMoniker": "Prueba.Api\\Entities\\Rol.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\20251015EliasParada\\Prueba.Api\\Entities\\Rol.cs",
+              "RelativeToolTip": "Prueba.Api\\Entities\\Rol.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:17:15.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

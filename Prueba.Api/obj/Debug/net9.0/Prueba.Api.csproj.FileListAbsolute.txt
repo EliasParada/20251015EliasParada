@@ -1,0 +1,12 @@
+C:\Users\Pasante\Source\Repos\20251015EliasParada\Prueba.Api\bin\Debug\net9.0\Prueba.Api.deps.json
+C:\Users\Pasante\Source\Repos\20251015EliasParada\Prueba.Api\bin\Debug\net9.0\Prueba.Api.dll
+C:\Users\Pasante\Source\Repos\20251015EliasParada\Prueba.Api\bin\Debug\net9.0\Prueba.Api.pdb
+C:\Users\Pasante\Source\Repos\20251015EliasParada\Prueba.Api\obj\Debug\net9.0\Prueba.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pasante\Source\Repos\20251015EliasParada\Prueba.Api\obj\Debug\net9.0\Prueba.Api.AssemblyInfoInputs.cache
+C:\Users\Pasante\Source\Repos\20251015EliasParada\Prueba.Api\obj\Debug\net9.0\Prueba.Api.AssemblyInfo.cs
+C:\Users\Pasante\Source\Repos\20251015EliasParada\Prueba.Api\obj\Debug\net9.0\Prueba.Api.csproj.CoreCompileInputs.cache
+C:\Users\Pasante\Source\Repos\20251015EliasParada\Prueba.Api\obj\Debug\net9.0\Prueba.Api.sourcelink.json
+C:\Users\Pasante\Source\Repos\20251015EliasParada\Prueba.Api\obj\Debug\net9.0\Prueba.Api.dll
+C:\Users\Pasante\Source\Repos\20251015EliasParada\Prueba.Api\obj\Debug\net9.0\refint\Prueba.Api.dll
+C:\Users\Pasante\Source\Repos\20251015EliasParada\Prueba.Api\obj\Debug\net9.0\Prueba.Api.pdb
+C:\Users\Pasante\Source\Repos\20251015EliasParada\Prueba.Api\obj\Debug\net9.0\ref\Prueba.Api.dll

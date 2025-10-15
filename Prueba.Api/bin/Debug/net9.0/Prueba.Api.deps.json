@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Prueba.Api/1.0.0": {
+        "runtime": {
+          "Prueba.Api.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prueba.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
